@@ -1,0 +1,29 @@
+v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST101_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST10_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST117_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST11_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST127_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST131_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST155_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST156_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST167_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST16_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST21_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST2332_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST29_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST32_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST38_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST405_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST410_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST48_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST58_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST648_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST655_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST69_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST73_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST88_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST95_unpruned.nwk -o treeshrink_output_v1 -O treeshrink_v1
+
+v2
+
