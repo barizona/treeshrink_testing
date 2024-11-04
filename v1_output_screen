@@ -1,254 +1,257 @@
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST101_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST101
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST101_unpruned.nwk -O output_v1 -O ST101_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 29
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST101.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST101_unpruned_treeshrink with prefix ST101_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST10_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST10
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST10_unpruned.nwk -O output_v1 -O ST10_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 72
 Writing output ...
 
-WARNING: treeshrink_output_ST has already had some files with prefix 'treeshrink_ST10'. Automatically changes prefix to 'treeshrink_ST102' to avoid overriding. Rerun with --force if you wish to override existing files.
-Output files written to treeshrink_output_ST with prefix treeshrink_ST102.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST10_unpruned_treeshrink with prefix ST10_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST117_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST117
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST117_unpruned.nwk -O output_v1 -O ST117_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 28
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST117.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST117_unpruned_treeshrink with prefix ST117_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST11_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST11
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST11_unpruned.nwk -O output_v1 -O ST11_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 66
 Writing output ...
 
-WARNING: treeshrink_output_ST has already had some files with prefix 'treeshrink_ST11'. Automatically changes prefix to 'treeshrink_ST118' to avoid overriding. Rerun with --force if you wish to override existing files.
-Output files written to treeshrink_output_ST with prefix treeshrink_ST118.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST11_unpruned_treeshrink with prefix ST11_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST127_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST127
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST127_unpruned.nwk -O output_v1 -O ST127_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 26
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST127.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST127_unpruned_treeshrink with prefix ST127_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST131_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST131
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST131_unpruned.nwk -O output_v1 -O ST131_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 79
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST131.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST131_unpruned_treeshrink with prefix ST131_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST155_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST155
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST155_unpruned.nwk -O output_v1 -O ST155_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 29
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST155.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST155_unpruned_treeshrink with prefix ST155_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST156_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST156
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST156_unpruned.nwk -O output_v1 -O ST156_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 21
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST156.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST156_unpruned_treeshrink with prefix ST156_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST167_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST167
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST167_unpruned.nwk -O output_v1 -O ST167_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 24
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST167.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST167_unpruned_treeshrink with prefix ST167_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST16_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST16
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST16_unpruned.nwk -O output_v1 -O ST16_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 24
 Writing output ...
 
-WARNING: treeshrink_output_ST has already had some files with prefix 'treeshrink_ST16'. Automatically changes prefix to 'treeshrink_ST168' to avoid overriding. Rerun with --force if you wish to override existing files.
-Output files written to treeshrink_output_ST with prefix treeshrink_ST168.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST16_unpruned_treeshrink with prefix ST16_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST21_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST21
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST21_unpruned.nwk -O output_v1 -O ST21_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 48
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST21.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST21_unpruned_treeshrink with prefix ST21_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST2332_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST2332
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST2332_unpruned.nwk -O output_v1 -O ST2332_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 20
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST2332.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST2332_unpruned_treeshrink with prefix ST2332_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST29_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST29
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST29_unpruned.nwk -O output_v1 -O ST29_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 29
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST29.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST29_unpruned_treeshrink with prefix ST29_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST32_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST32
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST32_unpruned.nwk -O output_v1 -O ST32_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 30
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST32.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST32_unpruned_treeshrink with prefix ST32_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST38_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST38
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST38_unpruned.nwk -O output_v1 -O ST38_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 32
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST38.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST38_unpruned_treeshrink with prefix ST38_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST405_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST405
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST405_unpruned.nwk -O output_v1 -O ST405_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 28
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST405.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST405_unpruned_treeshrink with prefix ST405_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST410_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST410
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST410_unpruned.nwk -O output_v1 -O ST410_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 30
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST410.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST410_unpruned_treeshrink with prefix ST410_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST48_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST48
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST48_unpruned.nwk -O output_v1 -O ST48_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 26
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST48.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST48_unpruned_treeshrink with prefix ST48_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST58_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST58
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST58_unpruned.nwk -O output_v1 -O ST58_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 32
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST58.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST58_unpruned_treeshrink with prefix ST58_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST648_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST648
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST648_unpruned.nwk -O output_v1 -O ST648_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 25
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST648.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST648_unpruned_treeshrink with prefix ST648_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST655_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST655
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST655_unpruned.nwk -O output_v1 -O ST655_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 22
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST655.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST655_unpruned_treeshrink with prefix ST655_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST69_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST69
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST69_unpruned.nwk -O output_v1 -O ST69_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 41
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST69.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST69_unpruned_treeshrink with prefix ST69_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST73_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST73
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST73_unpruned.nwk -O output_v1 -O ST73_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 52
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST73.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST73_unpruned_treeshrink with prefix ST73_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST88_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST88
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST88_unpruned.nwk -O output_v1 -O ST88_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 22
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST88.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST88_unpruned_treeshrink with prefix ST88_treeshrink.
 Launching TREESHRINK version 1.3.9
 TREESHRINK was called as follow
-/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST95_unpruned.nwk -o treeshrink_output_ST -O treeshrink_ST95
+/usr/local/bin/run_treeshrink.py -t 25_unpruned_unrooted_Ecoli_trees/ST95_unpruned.nwk -O output_v1 -O ST95_treeshrink
 Testing R and BMS installation ...
 There are only 1 gene trees in the dataset.
 TreeShrink will run in 'All-genes' mode
 Solving k-shrink with k = 51
 Writing output ...
 
-Output files written to treeshrink_output_ST with prefix treeshrink_ST95.
+Output files written to 25_unpruned_unrooted_Ecoli_trees/ST95_unpruned_treeshrink with prefix ST95_treeshrink.
+Singularity> mv -r 25_unpruned_unrooted_Ecoli_trees/ST* output_v1
+mv: invalid option -- 'r'
+Try 'mv --help' for more information.
+Singularity> mv 25_unpruned_unrooted_Ecoli_trees/ST* output_v1
+Singularity> pwd
+/node8_R10/arie/treeshrink_testing
 
